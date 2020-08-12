@@ -30,4 +30,8 @@ https://mtoczko.github.io/hls-test-streams/test-gap-video/playlist.m3u8
  
 https://mtoczko.github.io/hls-test-streams/test-gap-audio-video/playlist.m3u8
 
+# Group-id: subtitle and audio
+
+https://mtoczko.github.io/hls-test-streams/test-group/playlist.m3u8
+
 
