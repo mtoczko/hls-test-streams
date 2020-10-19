@@ -34,4 +34,13 @@ https://mtoczko.github.io/hls-test-streams/test-gap-audio-video/playlist.m3u8
 
 https://mtoczko.github.io/hls-test-streams/test-group/playlist.m3u8
 
+# WEBVTT
+
+### vtt + ts
+
+https://mtoczko.github.io/hls-test-streams/test-vtt-ts-segments/playlist.m3u8
+
+### vtt + fmp4
+
+https://mtoczko.github.io/hls-test-streams/test-vtt-fmp4-segments/playlist.m3u8
 
