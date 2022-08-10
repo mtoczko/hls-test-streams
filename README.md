@@ -44,3 +44,8 @@ https://mtoczko.github.io/hls-test-streams/test-vtt-ts-segments/playlist.m3u8
 
 https://mtoczko.github.io/hls-test-streams/test-vtt-fmp4-segments/playlist.m3u8
 
+### vtt + x-map
+
+https://mtoczko.github.io/hls-test-streams/test-vtt-x-map/playlist.m3u8
+
+
