@@ -20,6 +20,11 @@ https://mtoczko.github.io/hls-test-streams/test-vtt/playlist.m3u8
 https://mtoczko.github.io/hls-test-streams/test-gap-audio/playlist.m3u8
 
 ### Gap video
+
+`video, audio, subtitles (redundantne A, B server)`
+
+https://mtoczko.github.io/hls-test-streams/test-gap/playlist.m3u8
+
 `video segment 1.ts and 5.ts `
 
 https://mtoczko.github.io/hls-test-streams/test-gap-video/playlist.m3u8
