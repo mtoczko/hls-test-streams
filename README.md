@@ -54,4 +54,16 @@ https://mtoczko.github.io/hls-test-streams/test-vtt-fmp4-segments/playlist.m3u8
 
 https://mtoczko.github.io/hls-test-streams/test-vtt-x-map/playlist.m3u8
 
+# CEA-708
+
+### P16 - alphabets (POL, CZE, SVK, RUS, UKR, BLR, BGR, SRB, MKD, GRC, HUN, EST, LVA, LTU, TUR, IRL, FIN, ALB)
+
+https://mtoczko.github.io/hls-test-streams/test-cea708-p16/playlist.m3u8
+
+https://mtoczko.github.io/hls-test-streams/test-cea708-p16/captions.txt
+
+
+
+
+
 

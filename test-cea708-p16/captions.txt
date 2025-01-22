@@ -1,0 +1,136 @@
+Poland
+A Ą B C Ć D E Ę F G H I J K L Ł M N Ń O Ó
+P R S Ś T U W Y Z Ź Ż
+
+a ą b c ć d e ę f g h i j k l ł m n ń o ó
+p r s ś t u w y z ź ż
+
+Czech Republic
+A Á B C Č D Ď E É Ě F G H I Í J K L M N Ň
+O Ó P Q R Ř S Š T Ť U Ú Ů V W X Y Ý Z Ž
+
+a á b c č d ď e é ě f g h i í j k l m n ň
+o ó p q r ř s š t ť u ú ů v w x y ý z ž
+
+Slovakia
+A Á Ä B C Č D Ď E É F G H CH I Í J K L Ľ Ĺ
+M N Ň O Ó Ô P Q R Ŕ S Š T Ť U Ú V W X Y Ý
+Z Ž
+
+a á ä b c č d ď e é f g h ch i í j k l ľ ĺ
+m n ň o ó ô p q r ŕ s š t ť u ú v w x y ý
+z ž
+
+Russian
+А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У
+Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+
+а б в г д е ё ж з и й к л м н о п р с т у
+ф х ц ч ш щ ъ ы ь э ю я
+
+Ukrainian
+А Б В Г Ґ Д Е Є Ж З И І Ї Й К Л М Н О П Р
+С Т У Ф Х Ц Ч Ш Щ Ь Ю Я
+
+а б в г ґ д е є ж з и і ї й к л м н о п р
+с т у ф х ц ч ш щ ь ю я
+
+Belarusian
+А Б В Г Д Е Ё Ж З І Й К Л М Н О П Р С Т У
+Ў Ф Х Ц Ч Ш Ы Ь Э Ю Я
+
+а б в г д е ё ж з і й к л м н о п р с т у
+ў ф х ц ч ш ы ь э ю я
+
+Bulgarian
+А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф
+Х Ц Ч Ш Щ Ъ Ь Ю Я
+
+а б в г д е ж з и й к л м н о п р с т у ф
+х ц ч ш щ ъ ь ю я
+
+Serbian
+А Б В Г Д Ђ Е Ж З И Ј К Л Љ М Н Њ О П Р С
+Т Ћ У Ф Х Ц Ч Џ Ш
+
+а б в г д ђ е ж з и ј к л љ м н њ о п р с
+т ћ у ф х ц ч џ ш
+
+Macedonian
+А Б В Г Д Ѓ Е Ж З Ѕ И Ј К Л Љ М Н Њ О П Р
+С Т Ќ У Ф Х Ц Ч Џ Ш
+
+а б в г д ѓ е ж з ѕ и ј к л љ м н њ о п р
+с т ќ у ф х ц ч џ ш
+
+Greek
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ
+Χ Ψ Ω
+
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ
+χ ψ ω
+
+Hungarian
+A Á B C Cs D Dz Dzs E É F G Gy H I Í J K L
+Ly M N Ny O Ó Ö Ő P Q R S Sz T Ty U Ú Ü Ű
+V W X Y Z Zs
+
+a á b c cs d dz dzs e é f g gy h i í j k l
+ly m n ny o ó ö ő p q r s sz t ty u ú ü ű
+v w x y z zs
+
+Estonian
+A B D E F G H I J K L M N O Õ P R S Š Z Ž
+T U V Ä Ö Ü
+
+a b d e f g h i j k l m n o õ p r s š z ž
+t u v ä ö ü
+
+Latvian
+A Ā B C Č D E Ē F G Ģ H I Ī J K Ķ L Ļ M N
+Ņ O P R S Š T U Ū V Z Ž
+
+a ā b c č d e ē f g ģ h i ī j k ķ l ļ m n
+ņ o p r s š t u ū v z ž
+
+Lithuanian
+A Ą B C Č D E Ę Ė F G H I Į J K L M N O P
+R S Š T U Ų Ū V Z Ž
+
+a ą b c č d e ę ė f g h i į j k l m n o p
+r s š t u ų ū v z ž
+
+Turkish
+A B C Ç D E F G Ğ H I İ J K L M N O Ö P R
+S Ş T U Ü V Y Z
+
+a b c ç d e f g ğ h i i̇ j k l m n o ö p r
+s ş t u ü v y z
+
+Irish
+A Á B C D E É F G H I Í L M N O Ó P R S T
+U Ú
+
+a á b c d e é f g h i í l m n o ó p r s t
+u ú
+
+Finnish
+A B C D E F G H I J K L M N O P Q R S T U
+V W X Y Z Å Ä Ö
+
+a b c d e f g h i j k l m n o p q r s t u
+v w x y z å ä ö
+
+Saami
+A Á B C Č D Đ E F G H I J K L M N Ŋ O P R
+S Š T Ŧ U V Z Ž
+
+a á b c č d đ e f g h i j k l m n ŋ o p r
+s š t ŧ u v z ž
+
+Albanian
+A B C Ç D DH E Ë F G Gj H I J K L LL M N
+Nj O P Q R RR S Sh T Th U V X Xh Y Z Zh
+
+a b c ç d dh e ë f g gj h i j k l ll m n
+nj o p q r rr s sh t th u v x xh y z zh
